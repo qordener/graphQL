@@ -8,15 +8,12 @@ function Chat({ user }) {
 
   const handleSend = async (text) => {
     const message = await addMessage(text);
-    console.log('Message added:', message);
   };
 
   return (
     <section className="section">
       <div className="container">
-        <h1 className="title">
-          Chatting as {user.id}
-        </h1>
+        <h1 className="title">Chatting as {user.id}</h1>
         <MessageList user={user} messages={messages} />
         <MessageInput onSend={handleSend} />
       </div>

@@ -3,5 +3,55 @@
     "id": "SJKhIAKYB",
     "from": "system",
     "text": "Welcome!"
+  },
+  {
+    "id": "HH2xmH872ZuwfCPHSOAGi",
+    "from": "alice",
+    "text": "Hi !"
+  },
+  {
+    "id": "gF5oTMfR_3IyGOg-Zo1DD",
+    "from": "alice",
+    "text": "How are you ?"
+  },
+  {
+    "id": "XAj6WHZhKz6N9Sikl3Jaq",
+    "from": "alice",
+    "text": "Fine"
+  },
+  {
+    "id": "aI9hyDwsz6v7sXf3nfF5q",
+    "from": "alice",
+    "text": "True"
+  },
+  {
+    "id": "ESUQDxHP3VJrZHiqAOAZ4",
+    "from": "alice",
+    "text": "New message"
+  },
+  {
+    "id": "LHvNd3swTWTyQ_SXT9pdw",
+    "from": "alice",
+    "text": "Test"
+  },
+  {
+    "id": "fK_KAd1-dVYLuz3FAlfOB",
+    "from": "alice",
+    "text": "123"
+  },
+  {
+    "id": "UbwkrI4DXeWjLX20V7Yyb",
+    "from": "alice",
+    "text": "1234"
+  },
+  {
+    "id": "BneKi0x_CjpC8i8tcv05l",
+    "from": "alice",
+    "text": "test"
+  },
+  {
+    "id": "JaHPmUgZuSaNhaqLGQvse",
+    "from": "bob",
+    "text": "ping"
   }
 ]
